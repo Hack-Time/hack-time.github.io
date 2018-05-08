@@ -12,6 +12,7 @@
 - Microsoft Hackathon
   - [ARGallery](https://github.com/Hack-Time/ARGallery)
 - HackPKU
+  - [Tech Support](2018/HackPKU/Tech-Support/README.md)
 
 ## About
 
