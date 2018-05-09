@@ -6,19 +6,20 @@
 
 ### 2017
 
-- HACKxFDU
+- HACKxFDU - Top 3
   - [ARecipe - GitHub](https://github.com/Hack-Time/ARecipe)
 
 ### 2018
 
-- Microsoft Hackathon
+- Microsoft Hackathon - Top 5
   - [ARGallery - GitHub](https://github.com/Hack-Time/ARGallery)
   - [Presentation - Web](https://hack-time.github.io/ARGallery)
 - HackPKU
   - [Tech Support - Doc](https://hack-time.github.io/2018/HackPKU/Tech-Support)
 
-## About Me
+## Contact
 
+- [kingcosv@hotmail.com](mailto:kingcosv@hotmail.com)
 - [GitHub](https://github.com/kingcos)
 - [WeiBo](http://weibo.com/375975847)
 - [Twitter](https://twitter.com/mmdadao/)

@@ -1,6 +1,7 @@
-# Tech-Support
+# HackPKU 2018 - Tech Support
 
-The technical support of HackPKU 2018.
+- The technical support of HackPKU 2018.
+- For more, you can visit: [hack-time.github.io](https://hack-time.github.io)
 
 ## Momenta
 
@@ -210,7 +211,3 @@ The technical support of HackPKU 2018.
 ## 其他
 
 - 树莓派（提供SD卡，需自备数据线）
-
-## LICENSE
-
-- MIT
