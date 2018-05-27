@@ -14,8 +14,12 @@
 - Microsoft Hackathon - Top 5
   - [ARGallery - GitHub](https://github.com/Hack-Time/ARGallery)
   - [Presentation - Web](https://hack-time.github.io/ARGallery)
-- HackPKU
+- HackPKU - XiYue Cloud Enterprise Prize
   - [Tech Support - Doc](https://hack-time.github.io/2018/HackPKU/Tech-Support)
+  - [DataCrawler - GitHub](https://github.com/Hack-Time/DataCrawler)
+- HackHNU
+  - [JSJK-BackEnd - GitHub](https://github.com/Hack-Time/JSJK-BackEnd)
+  - [JSJK-iOS - GitHub](https://github.com/Hack-Time/JSJK-iOS)
 
 ## Contact
 
